@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm cnbkkrc</h1>
 <h3 align="center">Hello</h3>
 
+<img align="center" src="https://avatars.githubusercontent.com/u/13162256?s=400&u=67c3d0441fc7fc096eb342672b197391b859caa2&v=4" alt="csharp" width="400" height="400"/>
+
 <p align="left">
 </p>
 
